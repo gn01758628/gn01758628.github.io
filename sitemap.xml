@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gn01758328.github.io/essay/20240505/180910001/</loc>
+    
+    <lastmod>2024-05-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://gn01758328.github.io/categories/</loc>
     
     <lastmod>2024-04-28</lastmod>
@@ -29,5 +38,12 @@
 
   
 
+  
+  <url>
+    <loc>http://gn01758328.github.io/categories/essay/</loc>
+    <lastmod>2024-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

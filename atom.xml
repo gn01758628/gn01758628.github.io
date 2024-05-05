@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>海碼迴響</title>
+  
+  
+  <link href="http://gn01758328.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://gn01758328.github.io/"/>
+  <updated>2024-05-05T09:15:12.000Z</updated>
+  <id>http://gn01758328.github.io/</id>
+  
+  <author>
+    <name>Michael Hsieh</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First to the Moon</title>
+    <link href="http://gn01758328.github.io/essay/20240505/180910001/"/>
+    <id>http://gn01758328.github.io/essay/20240505/180910001/</id>
+    <published>2024-05-05T09:15:12.000Z</published>
+    <updated>2024-05-05T09:15:12.000Z</updated>
+    
+    
+    <summary type="html">今天的一小步，未來的一大步</summary>
+    
+    
+    
+    <category term="隨筆雜談" scheme="http://gn01758328.github.io/categories/essay/"/>
+    
+    
+  </entry>
+  
+</feed>
