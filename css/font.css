@@ -1,0 +1,13 @@
+@font-face{
+    font-family: 'NotoSansTC ExtraBold';
+    font-display: swap;
+    src: url('../fonts/NotoSansTC-ExtraBold.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'NotoSansTC Medium';
+    font-display: swap;
+    src: url('../fonts/NotoSansTC-Medium.ttf') format("truetype");
+}
+body {
+    font-family: 'NotoSansTC Medium','NotoSansTC ExtraBold';
+}
